@@ -1,0 +1,30 @@
+body {
+    background-color: lightgoldenrodyellow;
+  }
+  
+h1 {
+    color: rgb(255, 0, 0);
+    text-align: center;
+  }
+
+  
+p {
+    text-align: center;
+  }
+
+  
+button {
+    position: absolute;
+    width: 100%;
+    border: 1px solid #5f0000;
+    background-color: #cec497;
+
+  }
+
+  input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin-bottom: 6px;
+    box-sizing: border-box;
+    border: 1px solid #5f0000;
+    background-color: #cec497;;
